@@ -1,8 +1,6 @@
 # homework_04
 
-## Option 2: Academy of Py
-
-Your final report should include each of the following:
+Analysis of school system data including the following:
 
 ### District Summary
 
